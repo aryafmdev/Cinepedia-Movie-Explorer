@@ -1,4 +1,4 @@
-# CinemaPedia - Movie Explorer 
+# CinemaPedia - Movie Explorer ( https://cinemapedia-olive.vercel.app/ )
 
 **CinemaPedia** is a web-based movie search application developed with Next.js, TypeScript, and TailwindCSS. This app allows users to explore, discover, and learn about various movies from around the world. With a responsive design and a user-friendly interface, CinemaPedia offers a fast and enjoyable movie browsing experience.
 
