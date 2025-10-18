@@ -1,6 +1,6 @@
-# Cinepedia - Movie Explorer 
+# CinemaPedia - Movie Explorer 
 
-**Cinepedia** is a web-based movie search application developed with Next.js, TypeScript, and TailwindCSS. This app allows users to explore, discover, and learn about various movies from around the world. With a responsive design and a user-friendly interface, Cinepedia offers a fast and enjoyable movie browsing experience.
+**CinemaPedia** is a web-based movie search application developed with Next.js, TypeScript, and TailwindCSS. This app allows users to explore, discover, and learn about various movies from around the world. With a responsive design and a user-friendly interface, CinemaPedia offers a fast and enjoyable movie browsing experience.
 
 ## Key Features:
 - **Movie Search**: Discover various movies based on title, genre, or release year.

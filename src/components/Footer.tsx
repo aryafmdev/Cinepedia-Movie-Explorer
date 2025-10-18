@@ -7,13 +7,13 @@ export default function Footer() {
         {/* Logo section */}
         <Link href='/' className='flex flex-col items-center'>
           <span className='text-2xl md:text-xl lg:text-3xl font-bold text-yellow-400'>
-            AryaFMDev
+            CinemaPedia
           </span>
         </Link>
 
         {/* Right: Copyright text with icon */}
         <div className='flex items-center space-x-1 text-base'>
-          <span>2025 Movie Explorer</span>
+          <span>2025 CinemaPedia - Movie Explorer by AryaFMDev</span>
         </div>
       </div>
     </footer>
