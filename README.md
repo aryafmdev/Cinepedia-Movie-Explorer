@@ -1,17 +1,18 @@
-# Cinexplorer klik disini https://cinexplorer-pi.vercel.app/
+# Cinepedia - Movie Explorer 
 
-**Cinexplorer** adalah aplikasi web yang memungkinkan pengguna untuk mencari, menjelajahi, dan mengetahui informasi terkait berbagai film dan serial TV. Dengan antarmuka yang ramah pengguna dan desain modern, Cinexplorer memberikan pengalaman yang menyenangkan bagi penggemar film dan televisi.
+**Cinepedia** is a web-based movie search application developed with Next.js, TypeScript, and TailwindCSS. This app allows users to explore, discover, and learn about various movies from around the world. With a responsive design and a user-friendly interface, Cinepedia offers a fast and enjoyable movie browsing experience.
 
-Aplikasi ini terintegrasi dengan berbagai API penyedia informasi film, memungkinkan pengguna untuk menemukan informasi tentang film terbaru, detail alur cerita, rating, dan banyak lagi.
+## Key Features:
+- **Movie Search**: Discover various movies based on title, genre, or release year.
+- **Movie Details**: View in-depth information about films, including synopsis, cast, ratings, and more.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Modern UI**: A clean, minimalistic interface built with TailwindCSS, providing a fast and easily customizable design.
+- **Seamless User Experience**: Designed to deliver a smooth, uninterrupted movie browsing experience.
 
-## Fitur Utama
-- **Pencarian Film & TV Series**: Cari film dan serial TV dengan cepat menggunakan fitur pencarian canggih.
-- **Detail Film**: Lihat informasi lengkap mengenai film, seperti sinopsis, rating, dan genre.
-- **Desain Responsif**: Tampilan yang menarik dan mudah digunakan di berbagai perangkat, mulai dari desktop hingga ponsel.
-- **Terhubung dengan API Terpercaya**: Mengambil data secara real-time dari sumber terpercaya untuk memberikan informasi yang akurat dan terkini.
 
-## Teknologi yang Digunakan
-- **React**: Untuk membangun antarmuka pengguna yang responsif dan interaktif.
-- **Next.js**: Framework React yang memungkinkan aplikasi untuk dibangun dengan cara yang cepat dan efisien, serta mendukung server-side rendering.
-- **Tailwind CSS**: Untuk desain UI yang modern dan responsif.
-- **Vercel**: Platform hosting yang digunakan untuk deploy aplikasi.
+## Technologies Used:
+- **React**: For building the interactive user interface.
+- **Next.js**: A React framework that enables server-side rendering and static site generation, improving performance and SEO.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development with a focus on responsiveness.
+- **Vercel**: A cloud platform for deploying and hosting Next.js applications, ensuring fast and reliable performance.
+- **TMDB API**: The Movie Database API used to fetch movie data, including details, ratings, and cast information.
