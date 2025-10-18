@@ -16,7 +16,7 @@ async function fetchTrendingMovies(): Promise<TMDBMovieSummary[]> {
 
   // convert the response JSON and display only 5 movies starting from index 3
   const data = await res.json();
-  const movies: TMDBMovieSummary[] = data.results ? data.results.slice(3, 10) : [];
+  const movies: TMDBMovieSummary[] = data.results ? data.results.slice(3, 18) : [];
 
   // return the movies list
   return movies;

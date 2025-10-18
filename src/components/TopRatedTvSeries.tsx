@@ -16,7 +16,7 @@ async function fetchTopRatedTvSeries(): Promise<TMDBTvSummary[]> {
 
   // convert the response JSON and display only 7 tv series
   const data = await res.json();
-  const tvSeries: TMDBTvSummary[] = data.results ? data.results.slice(0, 7) : [];
+  const tvSeries: TMDBTvSummary[] = data.results ? data.results.slice(0, 15) : [];
 
   // return the tv series list
   return tvSeries;

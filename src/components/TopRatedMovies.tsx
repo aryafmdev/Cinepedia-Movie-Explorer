@@ -16,7 +16,7 @@ async function fetchTopRatedMovies(): Promise<TMDBMovieSummary[]> {
 
   // convert the response JSON and display only 5 movies
   const data = await res.json();
-  const movies: TMDBMovieSummary[] = data.results ? data.results.slice(0, 7) : [];
+  const movies: TMDBMovieSummary[] = data.results ? data.results.slice(0, 15) : [];
 
   // return the movies list
   return movies;
