@@ -6,14 +6,14 @@ export default function Footer() {
       <div className='container mx-auto px-4 py-4 flex items-center justify-between'>
         {/* Logo section */}
         <Link href='/' className='flex flex-col items-center'>
-          <span className='text-2xl md:text-xl lg:text-3xl font-bold text-yellow-400'>
+          <span className='text-sm md:text-base font-bold text-yellow-400'>
             CinemaPedia
           </span>
         </Link>
 
         {/* Right: Copyright text with icon */}
-        <div className='flex items-center space-x-1 text-base'>
-          <span>2025 CinemaPedia - Movie Explorer by AryaFMDev</span>
+        <div className='flex items-center space-x-1 text-xs md:text-sm'>
+          <span>2025 CinemaPedia by AryaFMDev</span>
         </div>
       </div>
     </footer>
